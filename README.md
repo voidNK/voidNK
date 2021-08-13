@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2voidNK%2FvoidNK&count_bg=%2344CC11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FvoidNK&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://twitter.com/screenfx" target="_blank"><img height="30" src="https://github.com/voidNK/voidNK/blob/master/images/twitter.png?raw=true"></a>
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/screenfx.svg?style=social&label=Follow%20%40screenfx)](https://twitter.com/screenfx)
 
 <a href='https://ko-fi.com/A0A05OS1A' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
