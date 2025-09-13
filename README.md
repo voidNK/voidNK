@@ -7,7 +7,7 @@
 
 <a href='https://ko-fi.com/A0A05OS1A' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-<!--
+<!--https://github.com/voidNK/voidNK/blob/main/README.md
 **voidNK/voidNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -43,5 +43,6 @@
 - 📫 How to reach me: screenfx.de for more info
 
 ![voidNK's github stats](https://github-readme-stats.vercel.app/api?username=voidNK&show_icons=true&theme=default&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=voidNK&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidNK&layout=compact&hide=css,html)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidNK&layout=compact&theme=vision-friendly-dark)
